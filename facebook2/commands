@@ -1,0 +1,179 @@
+ 1198  vi parser.py
+ 1199  python parser.py
+ 1200  python parser.py > x
+ 1202  vi parser.py
+ 1203  python parser.py
+ 1204  python parser.py > x
+ 1206  python parser.py
+ 1207  vi parser.py
+ 1208  python parser.py
+ 1209  vi parser.py
+ 1210  python parser.py
+ 1212  vi parser.py
+ 1213  python parser.py
+ 1214  python parser.py > x
+ 1217  python parser.py > x
+ 1219  vi parser.py
+ 1220  python parser.py > x
+ 1222  python parser.py > x
+ 1223  vi parser.py
+ 1224  python parser.py > x
+ 1226  vi parser.py
+ 1227  python parser.py > x
+ 1229  vi parser.py
+ 1230  python parser.py > x
+ 1232  python parser.py > x
+ 1238  vi parser.py
+ 1239  python parser.py > x
+ 1352  vi parser.py
+ 1357  python parser.py hello
+ 1358  vi parser.py
+ 1359  python parser.py hello
+ 1360  vi parser.py
+ 1361  python parser.py hello
+ 1362  python parser.py 
+ 1363  python parser.py hello
+ 1366  vi parser.py
+ 1372  python parser.py wordfile/word/document.xml
+ 1373  python parser.py wordfile/word/document
+ 1374  python parser.py wordfile/word/document.xml
+ 1377  python parser.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml
+ 1378  python parser.py wordfile/word/document.xml > x1
+ 1379  python parser.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x2
+ 1381  vi parser.py
+ 1382  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1384  vi parser2.py
+ 1385  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1386  vi parser2.py
+ 1387  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1388  vi parser2.py
+ 1389  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1390  vi parser2.py
+ 1391  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1392  vi parser2.py
+ 1394  vi parser2.py
+ 1395  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1397  vi parser2.py
+ 1398  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1399  vi parser2.py
+ 1400  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1402  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1404  vi parser2.py
+ 1405  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1407  vi parser2.py
+ 1408  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1410  vi parser2.py
+ 1411  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1413  vi parser2.py
+ 1414  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1418  vi parser2.py
+ 1419  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1420  vi parser2.py
+ 1421  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1423  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1425  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1427  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1430  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1432  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1434  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1435  vi parser2.py
+ 1436  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1438  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1440  vi parser2.py
+ 1441  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1443  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1445  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1447  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1449  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1451  vi parser2.py
+ 1452  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1455  :e parser2.py
+ 1456  vi parser2.py
+ 1457  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1459  python parser2.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1461  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1463  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1465  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1467  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1469  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1471  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1473  python parser3.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x3
+ 1488  cp parser3.py parser4.py
+ 1489  vi parser4.py
+ 1490  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1492  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1494  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1496  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1498  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1500  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1502  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1504  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1506  vi parser4.py
+ 1507  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1510  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1512  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1514  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1516  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1518  python parser.py > x1
+ 1520  python parser.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x1
+ 1522  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1524  vi parser4.py
+ 1525  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1526  vi parser4.py
+ 1527  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1529  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1531  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1533  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1535  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1537  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1539  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1541  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1543  vi parser4.py
+ 1544  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1545  vi parser4.py
+ 1546  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1548  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1550  vi parser4.py
+ 1551  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1555  vi parser4.py
+ 1557  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1559  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1561  vi parser4.py
+ 1562  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1564  vi parser4.py
+ 1565  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4
+ 1567  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4.csv
+ 1568  vi parser4.py
+ 1569  python parser4.py OPM_FB_2010_II_DC.docx_FILES/word/document.xml > x4.csv
+ 1575  git commit -m 'parser, now version'
+ 1725  vi parser4.py
+ 1728  history | grep parser
+ 1731  history | grep parser
+ 1732  python parser4.py 2012_FlorenciaFlores_1.docx_FILES/word/document.xml > 2012.csv
+ 1734  python parser4.py PRUEBA-ROLDAN-2017.docx_FILES/word/document.xml > 2017.csv
+ 1738  python 'parser4.py 2019 - Mercedes Andino.docx_FILES'/word/document.xml > 2017.csv
+ 1744  python parser4 2019_Mercedes_Andino.docx_FILES/word/document.xml > 2019.csv
+ 1745  python parser4.py 2019_Mercedes_Andino.docx_FILES/word/document.xml > 2019.csv
+ 1748  python parser4.py 2017_Roldan.docx_FILES/word/document.xml > 2017.csv
+ 1949  history | grep parser4
+ 1950  python parser4.py 2019_Andino_by_RL.docx_FILES/word/document.xml > 2019_by_RL.csv
+ 1951  vi parser4.py
+ 1952  cp parser4.py parser5.py
+ 1953  vi parser5.py
+ 1954  python parser5.py 2019_Andino_by_RL.docx_FILES/word/document.xml > 2019_by_RL.csv
+ 2004  history | grep parser
+ 2006  history | grep parser > commands
+ 1114  history | grep parser5
+ 1116  python parser5.py 2015_Compagno_prueba.docx_FILES/word/document.xml > 2015_Compagno_prueba.csv
+ 1118  python parser5.py 2015_Compagno_prueba.docx_FILES/word/document.xml > 2015_Compagno_prueba.csv
+ 1355  history | grep parser5
+ 1356  python parser5.py 2015_Compagno_prueba.docx_FILES/word/document.xml > 2015_Compagno_prueba.csv
+ 1357  python parser5.py 2009_Roberta_1.docx_FILES/word/document.xml > 2009_Roberta_1.csv
+ 1358  python parser5.py 2010_Roberta_1.docx_FILES/word/document.xml > 2010_Roberta_1.csv
+ 1359  vi parser5.py
+ 1360  python parser5.py 2010_Roberta_1.docx_FILES/word/document.xml > 2010_Roberta_1.csv
+ 1365  vi parser5.py
+ 1366  python parser5.py 2010_Roberta_1.docx_FILES/word/document.xml > 2010_Roberta_1.csv
+ 1369  python parser5.py 2013_Completo_Beatificación_Año_2013.docx_FILES/word/document.xml > 2013_Completo_Beatificación_Año_2013.csv
+ 2003  history | grep parser
+ 2007  history | grep parser >> commands
